@@ -2,4 +2,4 @@
 
 - I’m interested in evertying 
 - I’m currently learning gRPC
-- Attention to Detail -
+- Attention to Detail
